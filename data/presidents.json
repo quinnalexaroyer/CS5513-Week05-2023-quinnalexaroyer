@@ -1,0 +1,461 @@
+[
+{"id":1,
+ "name":"George Washington",
+ "birthdate":"1732-02-22",
+ "deathdate":"1799-12-14",
+ "startTerm":"1789-04-30",
+ "endTerm":"1797-03-04",
+ "homestate":"VA",
+ "party":"Independent"
+},
+
+{"id":2,
+ "name":"John Adams",
+ "birthdate":"1732-10-30",
+ "deathdate":"1826-07-04",
+ "startTerm":"1797-03-04",
+ "endTerm":"1801-03-04",
+ "homestate":"MA",
+ "party":"Federalist"
+},
+
+{"id":3,
+ "name":"Thomas Jefferson",
+ "birthdate":"1743-04-13",
+ "deathdate":"1826-07-04",
+ "startTerm":"1801-03-04",
+ "endTerm":"1809-03-04",
+ "homestate":"VA",
+ "party":"Democratic-Republican"
+},
+
+{"id":4,
+ "name":"James Madison",
+ "birthdate":"1751-03-16",
+ "deathdate":"1836-06-28",
+ "startTerm":"1809-03-04",
+ "endTerm":"1817-03-04",
+ "homestate":"VA",
+ "party":"Democratic-Republican"
+},
+
+{"id":5,
+ "name":"James Monroe",
+ "birthdate":"1757-04-28",
+ "deathdate":"1831-07-04",
+ "startTerm":"1817-03-04",
+ "endTerm":"1825-03-04",
+ "homestate":"VA",
+ "party":"Democratic-Republican"
+},
+
+{"id":6,
+ "name":"John Quincy Adams",
+ "birthdate":"1758-07-11",
+ "deathdate":"1848-02-23",
+ "startTerm":"1825-03-04",
+ "endTerm":"1829-03-04",
+ "homestate":"MA",
+ "party":"Democratic-Republican"
+},
+
+{"id":7,
+ "name":"Andrew Jackson",
+ "birthdate":"1758-03-15",
+ "deathdate":"1845-06-08",
+ "startTerm":"1829-03-04",
+ "endTerm":"1837-03-04",
+ "homestate":"TN",
+ "party":"Democrat"
+},
+
+{"id":8,
+ "name":"Martin Van-Buren",
+ "birthdate":"1782-12-06",
+ "deathdate":"1862-07-24",
+ "startTerm":"1837-03-04",
+ "endTerm":"1841-03-04",
+ "homestate":"Democrat",
+ "party":"NY"
+},
+
+{"id":9,
+ "name":"William Henry Harrison",
+ "birthdate":"1773-02-09",
+ "deathdate":"1841-04-04",
+ "startTerm":"1841-03-04",
+ "endTerm":"1841-04-04",
+ "homestate":"OH",
+ "party":"Whig"
+},
+
+{"id":10,
+ "name":"John Tyler",
+ "birthdate":"1790-03-29",
+ "deathdate":"1862-01-18",
+ "startTerm":"1841-04-04",
+ "endTerm":"1845-03-04",
+ "homestate":"VA",
+ "party":"Whig"
+},
+
+{"id":11,
+ "name":"James Polk",
+ "birthdate":"1795-11-02",
+ "deathdate":"1849-06-15",
+ "startTerm":"1845-03-04",
+ "endTerm":"1849-03-04",
+ "homestate":"TN",
+ "party":"Democrat"
+},
+
+{"id":12,
+ "name":"Zachary Taylor",
+ "birthdate":"1784-11-24",
+ "deathdate":"1850-07-09",
+ "startTerm":"1849-03-04",
+ "endTerm":"1850-07-09",
+ "homestate":"LA",
+ "party":"Whig"
+},
+
+{"id":13,
+ "name":"Millard Fillmore",
+ "birthdate":"1800-01-07",
+ "deathdate":"1874-03-08",
+ "startTerm":"1850-07-09",
+ "endTerm":"1853-03-04",
+ "homestate":"NY",
+ "party":"Whig"
+},
+
+{"id":14,
+ "name":"Franklin Pierce",
+ "birthdate":"1804-11-23",
+ "deathdate":"1869-10-09",
+ "startTerm":"1853-03-04",
+ "endTerm":"1857-03-04",
+ "homestate":"NH",
+ "party":"Democrat"
+},
+
+{"id":15,
+ "name":"James Buchanan",
+ "birthdate":"1791-04-23",
+ "deathdate":"1868-06-01",
+ "startTerm":"1857-03-04",
+ "endTerm":"1861-03-04",
+ "homestate":"PA",
+ "party":"Democrat"
+},
+
+{"id":16,
+ "name":"Abraham Lincoln",
+ "birthdate":"1809-02-12",
+ "deathdate":"1865-04-15",
+ "startTerm":"1861-03-04",
+ "endTerm":"1865-04-15",
+ "homestate":"IL",
+ "party":"Republican"
+},
+
+{"id":17,
+ "name":"Andrew Johnson",
+ "birthdate":"1808-12-29",
+ "deathdate":"1875-07-31",
+ "startTerm":"1865-04-15",
+ "endTerm":"1869-03-04",
+ "homestate":"TN",
+ "party":"Democrat"
+},
+
+{"id":18,
+ "name":"Ulysis S. Grant",
+ "birthdate":"1822-04-27",
+ "deathdate":"1885-07-23",
+ "startTerm":"1869-03-04",
+ "endTerm":"1877-03-04",
+ "homestate":"IL",
+ "party":"Republican"
+},
+
+{"id":19,
+ "name":"Rutherford Hayes",
+ "birthdate":"1822-10-04",
+ "deathdate":"1893-01-17",
+ "startTerm":"1877-03-04",
+ "endTerm":"1881-03-04",
+ "homestate":"OH",
+ "party":"Republican"
+},
+
+{"id":20,
+ "name":"James Garfield",
+ "birthdate":"1831-11-19",
+ "deathdate":"1881-09-19",
+ "startTerm":"1881-03-04",
+ "endTerm":"1881-09-19",
+ "homestate":"OH",
+ "party":"Republican"
+},
+
+{"id":21,
+ "name":"Chester Arthur",
+ "birthdate":"1829-10-05",
+ "deathdate":"1886-07-18",
+ "startTerm":"1881-09-19",
+ "endTerm":"1885-03-04",
+ "homestate":"NY",
+ "party":"Republican"
+},
+
+{"id":22,
+ "name":"Grover Cleveland",
+ "birthdate":"1837-03-18",
+ "deathdate":"1908-06-24",
+ "startTerm":"1885-03-04",
+ "endTerm":"1889-03-04",
+ "homestate":"Democrat",
+ "party":"NY"
+},
+
+{"id":23,
+ "name":"Benjamin Harrison",
+ "birthdate":"1833-08-20",
+ "deathdate":"1901-03-13",
+ "startTerm":"1889-03-04",
+ "endTerm":"1893-03-04",
+ "homestate":"IN",
+ "party":"Republican"
+},
+
+{"id":24,
+ "name":"Grover Cleveland",
+ "birthdate":"1837-03-18",
+ "deathdate":"1908-06-24",
+ "startTerm":"1893-03-04",
+ "endTerm":"1897-03-04",
+ "homestate":"Democrat",
+ "party":"NY"
+},
+
+{"id":25,
+ "name":"William McKinley",
+ "birthdate":"1843-01-29",
+ "deathdate":"1901-09-14",
+ "startTerm":"1897-03-04",
+ "endTerm":"1901-09-14",
+ "homestate":"OH",
+ "party":"Republican"
+},
+
+{"id":26,
+ "name":"Theodore Roosevelt",
+ "birthdate":"1858-10-27",
+ "deathdate":"1919-01-06",
+ "startTerm":"1901-09-14",
+ "endTerm":"1909-03-04",
+ "homestate":"NY",
+ "party":"Republican"
+},
+
+{"id":27,
+ "name":"William Howard Taft",
+ "birthdate":"1857-09-15",
+ "deathdate":"1930-03-08",
+ "startTerm":"1909-03-04",
+ "endTerm":"1913-03-04",
+ "homestate":"Republican",
+ "party":"OH"
+},
+
+{"id":28,
+ "name":"Woodroe Wilson",
+ "birthdate":"1856-12-28",
+ "deathdate":"1924-02-03",
+ "startTerm":"1913-03-04",
+ "endTerm":"1921-03-04",
+ "homestate":"NJ",
+ "party":"Democrat"
+},
+
+{"id":29,
+ "name":"Warren Harding",
+ "birthdate":"1865-11-02",
+ "deathdate":"1923-08-02",
+ "startTerm":"1921-03-04",
+ "endTerm":"1923-08-02",
+ "homestate":"OH",
+ "party":"Republican"
+},
+
+{"id":30,
+ "name":"Calvin Coolage",
+ "birthdate":"1872-07-04",
+ "deathdate":"1933-01-05",
+ "startTerm":"1923-08-02",
+ "endTerm":"1929-03-04",
+ "homestate":"MA",
+ "party":"Republican"
+},
+
+{"id":31,
+ "name":"Herbert Hoover",
+ "birthdate":"1874-08-10",
+ "deathdate":"1964-10-20",
+ "startTerm":"1929-03-04",
+ "endTerm":"1933-03-04",
+ "homestate":"CA",
+ "party":"Republican"
+},
+
+{"id":32,
+ "name":"Franlin D. Roosevelt",
+ "birthdate":"1882-01-30",
+ "deathdate":"1945-04-12",
+ "startTerm":"1933-03-04",
+ "endTerm":"1945-04-12",
+ "homestate":"NY",
+ "party":"Democrat"
+},
+
+{"id":33,
+ "name":"Harry Truman",
+ "birthdate":"1884-05-08",
+ "deathdate":"1972-12-26",
+ "startTerm":"1945-04-12",
+ "endTerm":"1953-01-20",
+ "homestate":"MO",
+ "party":"Democrat"
+},
+
+{"id":34,
+ "name":"Dwight Eisenhower",
+ "birthdate":"1890-10-14",
+ "deathdate":"1969-03-28",
+ "startTerm":"1953-01-20",
+ "endTerm":"1961-01-20",
+ "homestate":"NY",
+ "party":"Republican"
+},
+
+{"id":35,
+ "name":"John F. Kennedy",
+ "birthdate":"1917-05-29",
+ "deathdate":"1963-11-22",
+ "startTerm":"1961-01-20",
+ "endTerm":"1963-11-22",
+ "homestate":"MA",
+ "party":"Democrat"
+},
+
+{"id":36,
+ "name":"Lyndon Johnson",
+ "birthdate":"1908-08-27",
+ "deathdate":"1973-01-22",
+ "startTerm":"1963-11-22",
+ "endTerm":"1969-01-20",
+ "homestate":"TX",
+ "party":"Democrat"
+},
+
+{"id":37,
+ "name":"Richard Nixon",
+ "birthdate":"1913-01-09",
+ "deathdate":"1994-04-22",
+ "startTerm":"1969-01-20",
+ "endTerm":"1974-08-09",
+ "homestate":"NY",
+ "party":"Republican"
+},
+
+{"id":38,
+ "name":"Gerald R. Ford",
+ "birthdate":"1913-07-14",
+ "deathdate":"2006-12-26",
+ "startTerm":"1974-08-09",
+ "endTerm":"1977-01-20",
+ "homestate":"MI",
+ "party":"Republican"
+},
+
+{"id":39,
+ "name":"Jimmy Carter",
+ "birthdate":"1924-10-01",
+ "deathdate":"-",
+ "startTerm":"1977-01-20",
+ "endTerm":"1981-01-20",
+ "homestate":"GA",
+ "party":"Democrat"
+},
+
+{"id":40,
+ "name":"Ronald Reagan",
+ "birthdate":"1911-02-06",
+ "deathdate":"2004-06-05",
+ "startTerm":"1981-01-20",
+ "endTerm":"1989-01-20",
+ "homestate":"CA",
+ "party":"Republican"
+},
+
+{"id":41,
+ "name":"George H. W. Bush",
+ "birthdate":"1924-06-12",
+ "deathdate":"2018-11-30",
+ "startTerm":"1989-01-20",
+ "endTerm":"1993-01-20",
+ "homestate":"TX",
+ "party":"Republican"
+},
+
+{"id":42,
+ "name":"Bill Clinton",
+ "birthdate":"1946-08-19",
+ "deathdate":"-",
+ "startTerm":"1993-01-20",
+ "endTerm":"2001-01-20",
+ "homestate":"AR",
+ "party":"Democrat"
+},
+
+{"id":43,
+ "name":"George W. Bush",
+ "birthdate":"1946-07-06",
+ "deathdate":"-",
+ "startTerm":"2001-01-20",
+ "endTerm":"2009-01-20",
+ "homestate":"TX",
+ "party":"Republican"
+},
+
+{"id":44,
+ "name":"Barack Obama",
+ "birthdate":"1961-08-04",
+ "deathdate":"-",
+ "startTerm":"2009-01-20",
+ "endTerm":"2017-01-20",
+ "homestate":"IL",
+ "party":"Democrat"
+},
+
+{"id":45,
+ "name":"Donald Trump",
+ "birthdate":"1946-06-14",
+ "deathdate":"-",
+ "startTerm":"2017-01-20",
+ "endTerm":"2021-01-20",
+ "homestate":"NY",
+ "party":"Republican"
+},
+
+{"id":46,
+ "name":"Joe Biden",
+ "birthdate":"1942-11-20",
+ "deathdate":"-",
+ "startTerm":"2021-01-20",
+ "endTerm":"-",
+ "homestate":"DE",
+ "party":"Democrat"
+}
+]
