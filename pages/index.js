@@ -10,10 +10,10 @@ export async function getStaticProps() {
 export default function Home({presidentsData}) {
   return (
     <Layout home>
-      <div className="list-group">
-        {presidentsData.map(
+      <div id="listOfPresidents" className="list-group">
+        {presidentsData && presidentsData.map(
           ({id, name}) => (
-            <Link key={id} href={`/${id}`} className="list-group-item list-group-item-action">
+            <Link key={id} href={`/president/${id}`} className="list-group-item list-group-item-action">
               {name}
             </Link>
           )
