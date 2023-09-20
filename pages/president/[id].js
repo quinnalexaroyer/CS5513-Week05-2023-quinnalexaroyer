@@ -36,7 +36,7 @@ export default function Entry( {it} ) {
             <td>
         {it.occupations.map(
           ({job, slug}) => (
-            <span> <a href={`/occupation/${slug}`}>{job}</a> </span>
+            <span key={slug}> <a href={`/occupation/${slug}`}>{job}</a> </span>
           )
         )}
             </td>
