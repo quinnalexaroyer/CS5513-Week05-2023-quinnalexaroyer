@@ -24,7 +24,7 @@ export default function Entry( {it} ) {
         <ul>
         {it.map(
           ({id, name}) => (
-            <li><a href={`/president/${id}`}>{name}</a></li>
+            <li key={id}><a href={`/president/${id}`}>{name}</a></li>
           )
         )}
         </ul>
