@@ -42,7 +42,7 @@ export default function Entry( {it} ) {
             </td>
           </tr>
           <tr><td>Predecessor</td>
-            <td><a href={`/president/${it.prev.id.toString()}`}>{it.prev.name}</a></td>
+            <td><a href={`/president/${it.prev.id}`}>{it.prev.name}</a></td>
           </tr>
           <tr><td>Successor</td>
             <td><a href={`/president/${it.next.id}`}>{it.next.name}</a></td>
